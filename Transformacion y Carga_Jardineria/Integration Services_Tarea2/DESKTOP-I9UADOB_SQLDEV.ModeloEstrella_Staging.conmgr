@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-I9UADOB_SQLDEV.ModeloEstrella_Staging"
+  DTS:DTSID="{75EA3421-7791-48C1-8F07-97730A68BB12}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-I9UADOB\SQLDEV;Initial Catalog=ModeloEstrella_Staging;Integrated Security=True;Encrypt=False;Application Name=SSIS-Integration Services_Tarea2-{75EA3421-7791-48C1-8F07-97730A68BB12}DESKTOP-I9UADOB\SQLDEV.ModeloEstrella_Staging;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
